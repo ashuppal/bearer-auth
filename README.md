@@ -5,6 +5,9 @@ Author: Ashwini Uppal
 Used a "Bearer Token" to re-authenticate with a server following a successful login.
 
 All the tests are passing.
+Bug Fixes -done
+Secure the JWT Tokens -done (time sensitive JWTs)
+
 Tests report [tests](https://github.com/ashuppal/bearer-auth/pulls?q=is%3Apr+is%3Aclosed)
 
 ## .env requirements
